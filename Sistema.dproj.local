@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/04/07 11:43:09.000.503,=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/04/07 14:11:47.000.353,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\S.dproj=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2018/04/07 14:11:59.000.073,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Sistema.dproj=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\S.dproj</Transaction>
+    <Transaction>2018/04/07 14:12:11.000.334,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Projeto.pas=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/04/07 14:12:11.000.334,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Projeto.dfm=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018/04/07 14:12:25.000.953,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\home.dfm=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Projeto.dfm</Transaction>
+    <Transaction>2018/04/07 14:12:25.000.953,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\home.pas=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Projeto.pas</Transaction>
+    <Transaction>2018/04/07 14:13:52.000.958,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Sistema Estoque\home.dfm=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\home.dfm</Transaction>
+    <Transaction>2018/04/07 14:13:52.000.958,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Sistema Estoque\home.pas=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\home.pas</Transaction>
+    <Transaction>2018/04/07 14:14:07.000.452,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Sistema Estoque\Sistema.dproj=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Sistema.dproj</Transaction>
+    <Transaction>2018/04/10 19:48:38.000.451,=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Mult\Unit2.pas</Transaction>
+    <Transaction>2018/04/10 19:54:27.000.552,=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Mult\Unit2.pas</Transaction>
+    <Transaction>2018/04/10 20:16:24.000.573,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Mult\UMenuPrincipal.dfm=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Mult\home.dfm</Transaction>
+    <Transaction>2018/04/10 20:16:24.000.573,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Mult\UMenuPrincipal.pas=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Mult\home.pas</Transaction>
+    <Transaction>2018/04/10 20:16:37.000.580,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Mult\UClientes.dfm=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Mult\Unit2.dfm</Transaction>
+    <Transaction>2018/04/10 20:16:37.000.580,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Mult\UClientes.pas=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Mult\Unit2.pas</Transaction>
+    <Transaction>2018/04/10 22:48:13.000.829,=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Mult\Unit1.pas</Transaction>
+    <Transaction>2018/04/10 22:48:26.000.721,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Mult\Unit1.dfm=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Mult\UProdutos.dfm</Transaction>
+    <Transaction>2018/04/10 22:48:26.000.721,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Mult\Unit1.pas=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Mult\UProdutos.pas</Transaction>
+    <Transaction>2018/04/10 23:03:46.000.649,=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Mult\Unit1.pas</Transaction>
+    <Transaction>2018/04/10 23:05:04.000.127,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Mult\Unit1.dfm=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Mult\UOrcamentos.dfm</Transaction>
+    <Transaction>2018/04/10 23:05:04.000.127,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Mult\Unit1.pas=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Mult\UOrcamentos.pas</Transaction>
+    <Transaction>2018/05/20 22:46:03.000.590,=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Projeto\Unit1.pas</Transaction>
+    <Transaction>2018/05/20 22:46:20.000.405,=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Projeto\Unit1.pas</Transaction>
+    <Transaction>2018/05/20 22:47:07.000.204,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Projeto\URelatorio.dfm=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Projeto\Unit1.dfm</Transaction>
+    <Transaction>2018/05/20 22:47:07.000.204,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Projeto\URelatorio.pas=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Projeto\Unit1.pas</Transaction>
+    <Transaction>2018/05/23 00:18:29.000.780,=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Projeto\Unit1.pas</Transaction>
+    <Transaction>2018/05/23 00:18:47.000.234,=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Projeto\Unit1.pas</Transaction>
+    <Transaction>2018/05/23 00:29:54.000.978,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Projeto\ModConexao.pas=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Projeto\Unit1.pas</Transaction>
+    <Transaction>2018/05/23 00:29:54.000.978,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Projeto\ModConexao.dfm=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Projeto\Unit1.dfm</Transaction>
+    <Transaction>2018/05/23 02:30:44.000.586,=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Projeto\Unit1.pas</Transaction>
+    <Transaction>2018/05/23 02:37:14.000.056,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Projeto\UCliente.pas=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Projeto\Unit1.pas</Transaction>
+    <Transaction>2018/05/23 02:37:14.000.056,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Projeto\UCliente.dfm=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Projeto\Unit1.dfm</Transaction>
+    <Transaction>2018/05/27 13:34:14.000.430,=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Projeto\Unit1.pas</Transaction>
+    <Transaction>2018/05/28 20:37:23.000.365,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Projeto\UOrcamentos.pas=</Transaction>
+    <Transaction>2018/05/28 20:37:36.000.022,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Projeto\UProdutos.pas=</Transaction>
+    <Transaction>2018/05/28 20:38:13.000.154,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Projeto\UClientes.pas=</Transaction>
+    <Transaction>2018/05/28 20:38:45.000.467,=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Projeto\Unit1.pas</Transaction>
+    <Transaction>2018/05/28 20:41:43.000.302,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Projeto\UProduto.dfm=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Projeto\Unit1.dfm</Transaction>
+    <Transaction>2018/05/28 20:41:43.000.302,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Projeto\UProduto.pas=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Projeto\Unit1.pas</Transaction>
+    <Transaction>2018/05/28 21:20:03.000.926,=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Projeto\Unit1.pas</Transaction>
+    <Transaction>2018/05/28 21:20:36.000.769,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Projeto\UProduto.pas=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Projeto\Unit1.pas</Transaction>
+    <Transaction>2018/05/28 21:20:36.000.769,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Projeto\UProduto.dfm=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Projeto\Unit1.dfm</Transaction>
+    <Transaction>2018/05/28 22:40:36.000.737,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Projeto\UProduto.pas=</Transaction>
+    <Transaction>2018/05/28 23:25:48.000.397,=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Projeto\UProduto.pas</Transaction>
+    <Transaction>2018/05/30 19:40:26.000.569,=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Projeto\Unit2.pas</Transaction>
+    <Transaction>2018/05/30 19:41:28.000.804,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Projeto\UdmRelatorios.dfm=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Projeto\Unit2.dfm</Transaction>
+    <Transaction>2018/05/30 19:41:28.000.804,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Projeto\UdmRelatorios.pas=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Projeto\Unit2.pas</Transaction>
+    <Transaction>2018/06/02 14:02:04.000.660,=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Projeto\Unit1.pas</Transaction>
+    <Transaction>2018/06/02 14:02:34.000.843,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Projeto\Unit1.pas=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Projeto\Ufuncoes.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="UMenuPrincipal.pas"/>
+    <File Path="UMenuPrincipal.dfm"/>
+    <File Path="URelatorio.pas"/>
+    <File Path="URelatorio.dfm"/>
+    <File Path="ModConexao.pas"/>
+    <File Path="ModConexao.dfm"/>
+    <File Path="UCliente.pas"/>
+    <File Path="UCliente.dfm"/>
+    <File Path="UProduto.pas"/>
+    <File Path="UProduto.dfm"/>
+    <File Path="UdmRelatorios.pas"/>
+    <File Path="UdmRelatorios.dfm"/>
+    <File Path="Ufuncoes.pas"/>
+  </ProjectSortOrder>
+</BorlandProject>

@@ -1,0 +1,14 @@
+﻿[]
+Coordinates=182,62,82,33
+Visible=True
+
+[BtnClientes]
+Coordinates=185,10,84,33
+Visible=True
+
+[BtnProdutos]
+Coordinates=79,10,84,33
+
+[BtnRelatorio]
+Coordinates=10,78,84,33
+
